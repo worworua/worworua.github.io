@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://worworua.github.io/sitemap
+Sitemap: https://worworua.github.io/app/sitemap
+Sitemap: https://worworua.github.io/assets/sitemap
+Sitemap: https://worworua.github.io/css/sitemap
+Sitemap: https://worworua.github.io/includes/sitemap
+Sitemap: https://worworua.github.io/item/sitemap
+Sitemap: https://worworua.github.io/src/sitemap
